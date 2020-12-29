@@ -35,7 +35,7 @@ module.exports = appInfo => {
     include: [ '/api/user/detail' ]
   };
 
-  exports.security = {
+  config.security = {
     csrf: {
       enable: false,
     },
