@@ -26,7 +26,7 @@ module.exports = appInfo => {
   config.allowHosts = [ 'localhost:8000', '127.0.0.1:8000', '47.111.168.36', 'house.zjutshideshan.cn' ];
 
   config.interfaceLimit = {
-    maxCount: 3, // 最多请求次数
+    maxCount: 5, // 最多请求次数
     time: 3 * 1000 // 间隔时间
   };
 
