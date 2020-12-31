@@ -815,3 +815,8 @@
 2020-12-29 16:53:23 [httpLog] {"method":"POST","url":"/api/house/hot","data":{},"startTime":"2020-12-29 16:53:23","endTime":"2020-12-29 16:53:23","timeLength":21}
 2020-12-29 17:11:58 [httpLog] {"method":"POST","url":"/api/house/hot","data":{},"startTime":"2020-12-29 17:11:58","endTime":"2020-12-29 17:11:58","timeLength":27}
 2020-12-29 17:11:59 [httpLog] {"method":"POST","url":"/api/commons/citys","data":{},"startTime":"2020-12-29 17:11:58","endTime":"2020-12-29 17:11:59","timeLength":204}
+2020-12-31 15:40:46 [httpLog] {"method":"POST","url":"/api/user/login","data":{"username":"admin","password":"123456"},"startTime":"2020-12-31 15:40:46","endTime":"2020-12-31 15:40:46","timeLength":39}
+2020-12-31 15:40:47 [httpLog] {"method":"POST","url":"/api/house/hot","data":{},"startTime":"2020-12-31 15:40:47","endTime":"2020-12-31 15:40:47","timeLength":27}
+2020-12-31 15:40:47 [httpLog] {"method":"POST","url":"/api/commons/citys","data":{},"startTime":"2020-12-31 15:40:47","endTime":"2020-12-31 15:40:47","timeLength":308}
+2020-12-31 15:44:51 [httpLog] {"method":"POST","url":"/api/house/hot","data":{},"startTime":"2020-12-31 15:44:51","endTime":"2020-12-31 15:44:51","timeLength":30}
+2020-12-31 15:44:51 [httpLog] {"method":"POST","url":"/api/commons/citys","data":{},"startTime":"2020-12-31 15:44:51","endTime":"2020-12-31 15:44:51","timeLength":116}

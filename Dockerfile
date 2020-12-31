@@ -12,7 +12,7 @@ RUN yarn config set register https://registry.npm.taobao.org
 RUN yarn --production
 # 再copy代码到容器中/egg目录下（./ 表示所有文件 ）
 COPY ./ /egg
-# 暴露7001端口
-EXPOSE 7001
+# 暴露7002端口
+EXPOSE 7002
 # 等容器启动之后执行脚本（RUN是立即执行，CMD要等到容器启动之后再执行）
 CMD yarn prod
