@@ -23,7 +23,7 @@ module.exports = appInfo => {
     type: 'all'
   };
 
-  config.allowHosts = [ 'localhost:8000', '127.0.0.1:8000', '47.111.168.36' ];
+  config.allowHosts = [ 'localhost:8000', '127.0.0.1:8000', '47.111.168.36', 'house.zjutshideshan.cn' ];
 
   config.interfaceLimit = {
     maxCount: 3, // 最多请求次数
